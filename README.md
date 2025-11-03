@@ -226,11 +226,11 @@ droneRelayAppV2/
 - Material Components: 1.11.0
 - Lifecycle: 2.7.0
 - RxJava 3: 3.0.2
-- Kotlin: 1.8.10
+- Kotlin: 1.9.20
 
 ### Architecture
 - **Language:** Kotlin
-- **Build System:** Gradle 7.4.2
+- **Build System:** Gradle 8.0 / AGP 8.1.4
 - **Architecture Components:** ViewModel, LiveData
 - **Reactive Programming:** RxJava 3
 - **Minimum SDK:** 24 (Android 7.0)

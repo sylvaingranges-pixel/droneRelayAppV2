@@ -110,8 +110,8 @@ droneRelayAppV2/
 ⚙️ TECHNICAL SPECIFICATIONS:
 
 SDK:                DJI MSDK v5.16.0 (Latest)
-Language:           Kotlin 1.8.10
-Build System:       Gradle 7.4.2
+Language:           Kotlin 1.9.20
+Build System:       Gradle 8.0 / AGP 8.1.4
 Min Android:        API 24 (Android 7.0)
 Target Android:     API 34 (Android 14)
 Architecture:       ARM64 (arm64-v8a)

@@ -282,11 +282,11 @@ App Launch
 
 ## Key Technologies
 
-- **Language:** Kotlin 1.8.10
+- **Language:** Kotlin 1.9.20
 - **SDK:** DJI MSDK v5.16.0
 - **UI:** View Binding + Material Components
 - **Async:** RxJava 3
-- **Build:** Gradle 7.6.2
+- **Build:** Gradle 8.0 / AGP 8.1.4
 - **Platform:** Android 7.0+ (API 24+)
 
 ## Design Patterns Used
