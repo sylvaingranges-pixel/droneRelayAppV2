@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DJI MSDK Sample</string>
+    
+    <!-- SDK Registration -->
+    <string name="sdk_registration_success">DJI SDK registered successfully!</string>
+    <string name="sdk_registration_failed">SDK Registration Failed: %s</string>
+    <string name="sdk_registration_in_progress">Registering DJI SDK…</string>
+    
+    <!-- Connection Status -->
+    <string name="product_connected">Product Connected: %s</string>
+    <string name="product_disconnected">Product Disconnected</string>
+    <string name="connection_status">Connection Status:</string>
+    <string name="no_product_connected">No Product Connected</string>
+    
+    <!-- Drone Info -->
+    <string name="drone_info">Drone Information</string>
+    <string name="model_name">Model: %s</string>
+    <string name="firmware_version">Firmware: %s</string>
+    <string name="serial_number">Serial: %s</string>
+    <string name="battery_level">Battery: %d%%</string>
+    
+    <!-- Actions -->
+    <string name="take_off">Take Off</string>
+    <string name="land">Land</string>
+    <string name="refresh_info">Refresh Info</string>
+    
+    <!-- Instructions -->
+    <string name="instructions_title">Setup Instructions</string>
+    <string name="instructions_text">1. Register your app at https://developer.dji.com/user/apps/\n2. Add your API key to AndroidManifest.xml\n3. Connect your DJI RC-N2 controller to this device via USB\n4. Power on your DJI Mini 4 Pro\n5. The app will detect the connection automatically</string>
+    
+    <!-- Errors -->
+    <string name="error_api_key_not_set">Error: API Key not set in AndroidManifest.xml</string>
+    <string name="error_usb_permission_denied">USB Permission Denied</string>
+    <string name="error_command_failed">Command Failed: %s</string>
+</resources>
